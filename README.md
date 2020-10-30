@@ -1,2 +1,2 @@
 # contentmanagementsystem
-A Basic but full Fledged Content Management System
+A Basic full Fledged Content Management System.
